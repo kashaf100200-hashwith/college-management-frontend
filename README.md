@@ -28,9 +28,8 @@ The project uses a **light, soft and modern UI** with pastel colors, simple card
 
 ## 📸 Project Preview
 
-Add your project screenshot here:
+<img width="947" height="409" alt="image" src="https://github.com/user-attachments/assets/a76011ca-9388-46b9-8f03-602072ab70a4" />
 
-`![College Management Frontend](screenshot.png)`
 
 ## 📚 What I Learned
 
